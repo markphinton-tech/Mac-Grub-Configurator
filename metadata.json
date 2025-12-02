@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GrubRescue Gen",
+  "description": "A utility to generate rescue scripts for fixing Linux boot issues on Mac hardware via a USB drive.",
+  "requestFramePermissions": []
+}
